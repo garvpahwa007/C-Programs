@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 14,
+  "files.exclude": {
+    "**/*.dSYM": true
+  },
+  "cSpell.words": ["dayofweek", "isstudent"],
+  "C_Cpp.errorSquiggles": "disabled"
+}
